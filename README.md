@@ -1,0 +1,3 @@
+# thirdcode
+practice
+这个是我本人采用的一个GitHub使用过程中的一次小小时间
